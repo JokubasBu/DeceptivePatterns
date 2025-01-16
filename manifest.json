@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "DOM Highlighter",
+    "name": "Lowest Price Finder",
     "version": "1.0",
-    "description": "Highlights elements with specific classes or attributes.",
+    "description": "Finds lowest price in the store",
     "permissions": ["activeTab", "scripting"],
     "host_permissions": ["<all_urls>"],
     "background": {
